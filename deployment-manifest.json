@@ -1,0 +1,117 @@
+{
+  "formatVersion": 1,
+  "kind": "mu-personal-backend-template",
+  "version": "0.1.0",
+  "protocolVersion": 1,
+  "runtime": "runtime.js",
+  "configuration": "wrangler.jsonc",
+  "migrations": "migrations",
+  "backendMarkerSha256": "410ca2c0cc1018971533913a1f116626c05db901e4719237cc71db649461a5fc",
+  "assets": [
+    {
+      "path": ".dev.vars.example",
+      "bytes": 195,
+      "sha256": "21c1733d2a7da959592f8a57d2ae440d286e9fb89f55b28032260a183ba0327f"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 84,
+      "sha256": "1820d01cd5870ff36f70fb3cb130e036aa63c58dbc2b62f883aa3f1fdae9c61c"
+    },
+    {
+      "path": "deploy.mjs",
+      "bytes": 7544,
+      "sha256": "9b8bf9ccd24965e9a07a3ab4a1077ecd4b6f7b72494aa345ff376646ebd8530d"
+    },
+    {
+      "path": "DISCLAIMER.md",
+      "bytes": 2860,
+      "sha256": "38913c51ab974b12f1c5cf925573ada7bc38d3ef3c31f65788a02cfe561e4850"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 5398,
+      "sha256": "94ceb41d39ebb44bf5f1f3ab8cbbfef100e88ef70afe73974ab8349ce1a768e1"
+    },
+    {
+      "path": "migrations/0001_background.sql",
+      "bytes": 1099,
+      "sha256": "15bb5a6ebd02675f48ddf4b56fd3bd978cea7ea791e4bfa7b6c152c33d9d387c"
+    },
+    {
+      "path": "migrations/0002_group_autonomy.sql",
+      "bytes": 1430,
+      "sha256": "37282ffd0a8acaca2b13ab5c7bb0f47cb4ae378117670e54dd74fac8245510da"
+    },
+    {
+      "path": "migrations/0003_autonomy_delivery.sql",
+      "bytes": 598,
+      "sha256": "6c2bcf441e65a0118b11e766ba9017334eaf99d51544d88218b170d2889d2cdc"
+    },
+    {
+      "path": "migrations/0004_autonomy_continuation.sql",
+      "bytes": 299,
+      "sha256": "4603846efada8d0a4b3a1220a8c5ef173e0adece8be38de6207fdbb773c95bb4"
+    },
+    {
+      "path": "migrations/0005_autonomy_preparation.sql",
+      "bytes": 346,
+      "sha256": "56a3084e3c63951de369095fefed386af3e3cd6342be8952a6526d37d7a44d69"
+    },
+    {
+      "path": "migrations/0006_autonomy_budget.sql",
+      "bytes": 296,
+      "sha256": "27c8cebd52cd74828f61fd7e25da2dcd1065303f1a6e87f6bfa79fa7715812b3"
+    },
+    {
+      "path": "migrations/0007_independent_conversations.sql",
+      "bytes": 2247,
+      "sha256": "a347c7172de2fa6ef7b460f0ba29a6c59ce0a38179694ab613348af87e0174a8"
+    },
+    {
+      "path": "migrations/0008_personal_backend.sql",
+      "bytes": 490,
+      "sha256": "18180cf33e4146a8f5d6e7ace7c22afcf14e29efc4ec0261fc999a6fae3ddabd"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 50395,
+      "sha256": "79a68d850ac888803ae5136d33718719e3b17dd25b3e195b4916ce84e24dd88d"
+    },
+    {
+      "path": "package.json",
+      "bytes": 861,
+      "sha256": "bef442762d7ceb4641a051c529a7bbcc0136026d70712367917e12754b354132"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5722,
+      "sha256": "ba37659cc9c9efd74fafddf7e56115eba16a1eaf2ebd9b99b38d955a309d378f"
+    },
+    {
+      "path": "runtime.js",
+      "bytes": 670857,
+      "sha256": "9bda2cfa9109bcbc9fc2d7e012b3d9b034ccf0fa6f0babb6e6864672ef74cb5b"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 1522,
+      "sha256": "4e8bbebbeed097450cdc0deca6b42c8d2b5c0cb90ba5d2b995854b1cfc04ae0e"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 478,
+      "sha256": "b68335b68160d2512adc3f8d5fd3bb2bf7c927806868a8cf28c0d068ccb9e599"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.txt",
+      "bytes": 4097,
+      "sha256": "63292d2e4727d1a534e7e680792069b145f1ba9921947188a69d39621ef373d7"
+    },
+    {
+      "path": "wrangler.jsonc",
+      "bytes": 790,
+      "sha256": "8843a3784d16963ec4c4f9608984b97038128cbdf776b7aa3e1eeae02e41c34c"
+    }
+  ]
+}
